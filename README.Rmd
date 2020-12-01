@@ -27,4 +27,6 @@ According to usn, the relevant reference is Jamrozik1997.
 
 
 ## Objectives
-This material might be helpful for one of the projects with Jessica.
+* This material might be helpful for one of the projects with Jessica.
+* At any point in the future, a change of the evaluation software from the currently used programs to MiX99 must be done.
+
